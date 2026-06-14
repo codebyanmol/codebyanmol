@@ -17,7 +17,7 @@ I'm a passionate beginner on a mission to become a skilled **cybersecurity engin
 - 🐍 **Python** — scripting and automation basics
 - 🔐 **Cybersecurity** — fundamentals, networking, and security concepts
 - 💻 **Programming** — logic, problem-solving, and best practices
----# Hi there, I'm [Your Name] 👋
+---# Hi there, I'm Anmol Khadka👋
  
 I'm a passionate beginner on a mission to become a skilled **cybersecurity engineer**. I love learning how technology works — and how to protect it.
  
